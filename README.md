@@ -1,13 +1,13 @@
 # headc
 
-headコマンドのクローン
+Cloning the head command
 
 ## Description
 
 --help
 Usage: headc [-n lines | -c bytes] [file ...]
 
-default: display information for 10 lines from the beginning of the specified file
+Default: Display information for 10 lines from the beginning of the specified file
 
 # Lisence
 
