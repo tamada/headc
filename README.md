@@ -6,14 +6,8 @@ headコマンドのクローン
 
 --help
 Usage: headc [-n lines | -c bytes] [file ...]
-*指定したファイルの行頭から10行の情報を表示
 
-コマンドライン引数: ファイル
-
-### option 
--n 行数　   | 指定した数字分の行数の情報を表示
-
--c バイト数　 | 指定した数字分のバイト数の情報を表示  　*接尾辞のついた数字にも対応
+default: display information for 10 lines from the beginning of the specified file
 
 # Lisence
 
