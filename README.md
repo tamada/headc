@@ -6,8 +6,9 @@
 指定したファイルの先頭から10行分の情報を表示する
 
 ## Usage
-headc [OPTIONS] [file]...<br />
+```headc [OPTIONS] [file]...
 OPTIONS
--n lines      指定したファイルの先頭から指定した行数を表示する<br />
+-n lines      指定したファイルの先頭から指定した行数を表示する
 
 -c bytes      指定したファイルの先頭から指定したバイト数を表示する
+```
