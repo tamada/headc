@@ -1,5 +1,5 @@
 # headc
-[![lisencee(https://img.shields.io/badge/License-MIT-green)]()
+[![lisencee(https://img.shields.io/badge/License-MIT-green)](https://github.com/i2486174/headc/blob/main/LICENSE)
 　Headコマンドのクローン
 
 ## Description
