@@ -1,10 +1,14 @@
 # headc
 
-　Head command clone
+　Headコマンドのクローン
 
 ## Description
-Default: Display information for 10 lines from the beginning of the specified file
+指定したファイルの先頭から10行分の情報を表示する
 
 # Usage
-headc [-n lines | -c bytes] [file ...]
+headc [OPTIONS] [file]...
 
+# OPTIONS
+-n lines<br />
+
+-c bytes
