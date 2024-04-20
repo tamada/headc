@@ -1,7 +1,7 @@
 # headc
 [![lisence](https://img.shields.io/badge/License-MIT-green)](https://github.com/i2486174/headc/blob/main/LICENSE)
 
-　Headコマンドのクローン
+Headコマンドのクローン
 
 ## Description
 指定したファイルの先頭から10行分の情報を表示する
