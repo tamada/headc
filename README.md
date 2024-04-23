@@ -1,5 +1,6 @@
 # headc
 [![lisence](https://img.shields.io/badge/License-MIT-green)](https://github.com/i2486174/headc/blob/main/LICENSE)
+[![Coverage Status](https://coveralls.io/repos/github/i2486174/headc/badge.svg?branch=main)](https://coveralls.io/github/i2486174/headc?branch=main)
 
 Headコマンドのクローン
 
