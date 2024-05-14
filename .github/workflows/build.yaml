@@ -26,7 +26,7 @@ jobs:
           cargo llvm-cov --lcov --output-path coverage.lcov cargo build
       - name: Send coverage to coveralls
         uses: coverallsapp/github-action@master 
-        if: matrix.os == 'ubuntu-latest’
+        if: matrix.os == 'ubuntu-latest'
         with: 
           github-token: ${{ secrets.github_token }} 
           path-to-lcov: coverage.lcov
